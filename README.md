@@ -1,5 +1,3 @@
 # Calculator
-A calculator that I built using HTML, CSS and JavaScript.
-I made this basic calculator to improve my JavaScript.
+This calculator is a fully functional, responsive web application developed using HTML, CSS, and JavaScript. Designed as a hands-on project to deepen my JavaScript skills, it handles basic arithmetic operations with a clean and user-friendly interface. This project demonstrates core JavaScript concepts, DOM manipulation, and event handling, showcasing a practical approach to problem-solving and interactive UI design.
 
-Here's the Link: https://calculator.somildaswani.repl.co/ 
